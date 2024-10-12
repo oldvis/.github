@@ -1,7 +1,7 @@
 <h1 align="center">The OldVis Project</h1>
 
 <p align="center">
-A digital library of old visualizations.
+A digital collection of old visualizations.
 </p>
 
 <div align="center">
